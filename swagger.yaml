@@ -16,7 +16,7 @@ tags:
   - name: Endpoints
     description: All the endpoints
 servers:
-- url: https://localhost:3000
+- url: https://url-shortener-bjwq.onrender.com
 paths:
   /{shortId}:
     get:
